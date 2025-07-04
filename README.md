@@ -1,7 +1,6 @@
 # Draw Your Joy 🎨😄
 
-📄 [See Document]
-(https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jisunshin79/Draw-Your-Joy/main/Draw_Your_Joy.pdf)
+[📄 Draw_Your_Joy.pdf 바로 보기](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jisunshin79/Draw-Your-Joy/main/Draw_Your_Joy.pdf)
 
 
 An interactive ML-powered canvas that turns your smiles into color and your silence into grayscale. Inspired by Renoir's pursuit of happiness.
