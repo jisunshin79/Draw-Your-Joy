@@ -1,4 +1,7 @@
 # Draw Your Joy 🎨😄
+
+📄 [See Document](./[Document]Draw Your Joy.pdf)
+
 An interactive ML-powered canvas that turns your smiles into color and your silence into grayscale. Inspired by Renoir's pursuit of happiness.
 
 > “A painter who painted happiness” – Inspired by Renoir's philosophy of finding beauty in life.
